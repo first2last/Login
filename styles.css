@@ -60,7 +60,7 @@ button:hover {
 body {
     height: 100vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(/images/new.jpg);
+        url(new.jpg);
 
     background-repeat: no-repeat;
     background-size: cover;
@@ -135,7 +135,7 @@ main {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)), url(/images/SHOP2.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)), url(SHOP2.jpeg);
 
     background-repeat: no-repeat;
     background-size: cover;
